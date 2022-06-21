@@ -1,4 +1,4 @@
-# Which-Debts-Are-Worth-the-Bank-s-Effort
+# Which Debts Are Worth the Bank's Effort
 
 After a debt has been legally declared "uncollectable" by a bank, the account is considered to be "charged-off." But that doesn't mean the bank simply walks away
 from the debt. They still want to collect some of the money they are owed. In this project, you will look at a situation where a bank assigned delinquent customers 
