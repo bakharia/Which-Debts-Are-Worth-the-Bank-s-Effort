@@ -8,5 +8,5 @@ in this non-random assignment whether the incremental amount the bank earns exce
 Skills :
   - Data Manipulation
   - Data Visualization
-  - Probability & Statistics
+  - Regression Discontinuity, Regression Modeling, Statistical Analysis
   - Importing & Cleaning Data
